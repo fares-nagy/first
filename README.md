@@ -1,2 +1,3 @@
 # first
-how it works
+how it works 
+how to contribute in repo's
